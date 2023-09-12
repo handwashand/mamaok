@@ -1,4 +1,4 @@
-package com.mycompany.momokk
+package com.example.mamaok
 
 import io.flutter.embedding.android.FlutterActivity
 
