@@ -1,0 +1,354 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "Push",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "IdUser",
+          "arrayConfig": "CONTAINS"
+        },
+        {
+          "fieldPath": "Read",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Meetings",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "IDCustomer",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "StatusNom",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Date",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "users",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "Role",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "City",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Sex",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Age",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Push",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "IdUser",
+          "arrayConfig": "CONTAINS"
+        },
+        {
+          "fieldPath": "Date",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "TarifsCustomer",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "IDCustomer",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Count",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Meetings",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "IDCompanion",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Raiting",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Meetings",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "IDCustomer",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "StatusNom",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Date",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Balance",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "IDCustomer",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Date",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Meetings",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "IDCustomer",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Date",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "users",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "Role",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "phone_number",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "ZaprosWard",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "chats",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "users",
+          "arrayConfig": "CONTAINS"
+        },
+        {
+          "fieldPath": "last_message_time",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "PricingPoint",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "tariff",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Raiting",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Meetings",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "IDCompanion",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "StatusNom",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Date",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Meetings",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "IDCompanion",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "StatusNom",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Date",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "TarifsCustomer",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "IDCustomer",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Name",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Count",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Meetings",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "IDCustomer",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "DateClear",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "StatusNom",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Meetings",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "IDCustomer",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "StatusNom",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Meetings",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "IDCompanion",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Date",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Meetings",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "IDWard",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "StatusNom",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Date",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Meetings",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "IDWard",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "StatusNom",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Date",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "chat_messages",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "chat",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "timestamp",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": [
+    {
+      "collectionGroup": "fcm_tokens",
+      "fieldPath": "fcm_token",
+      "indexes": [
+        {
+          "order": "ASCENDING",
+          "queryScope": "COLLECTION_GROUP"
+        }
+      ]
+    }
+  ]
+}

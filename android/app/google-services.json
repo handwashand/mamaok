@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "674312208466",
+    "project_id": "momok-fcc18",
+    "storage_bucket": "momok-fcc18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674312208466:android:d2b708511e35c261561f8b",
+        "android_client_info": {
+          "package_name": "com.mycompany.momok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674312208466-4gh41ajagkna7u18bab8ofstn9g8qe9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.momok",
+            "certificate_hash": "0c1ff8c970f1f72dcae14b6ec6c3e05b33384d81"
+          }
+        },
+        {
+          "client_id": "674312208466-cglbo8lvh882ilm9ttqlk9ruoqcisgnm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.momok",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "674312208466-mtpetjhkfiaj9pq62aqc13lvaglic5n2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.momok",
+            "certificate_hash": "f08511f02dcb837ecc69c999a8172cf40d95d9be"
+          }
+        },
+        {
+          "client_id": "674312208466-qpt9rl8lhjetokhalt7dfb75tt3l0qgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyXUWFVRSiOBUhmtKJoQOW7HoQxaWP8fI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674312208466-moccbi752mu8easbr53juuiqugecln9i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "674312208466-28rumop6nao084vum76obm8m7uk6embh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.momok"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674312208466:android:6880d0953044a1be561f8b",
+        "android_client_info": {
+          "package_name": "com.mycompany.momokk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674312208466-5k0nqgip5hqp8n2n8kugfau2bejs4s5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.momokk",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "674312208466-d1beissoodvvl99nc1asutd882a5j0cu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.momokk",
+            "certificate_hash": "f08511f02dcb837ecc69c999a8172cf40d95d9be"
+          }
+        },
+        {
+          "client_id": "674312208466-ti9qf6fnnsb6p4n25lbj5nm624pc5uj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.momokk",
+            "certificate_hash": "355c71d28b61338350442d109fea37e9dfba6903"
+          }
+        },
+        {
+          "client_id": "674312208466-qpt9rl8lhjetokhalt7dfb75tt3l0qgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyXUWFVRSiOBUhmtKJoQOW7HoQxaWP8fI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674312208466-moccbi752mu8easbr53juuiqugecln9i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "674312208466-28rumop6nao084vum76obm8m7uk6embh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.momok"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
